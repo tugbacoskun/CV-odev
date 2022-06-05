@@ -1,0 +1,2 @@
+# CV-odev
+HTML-CSS İLE CV OLUŞTURMA
